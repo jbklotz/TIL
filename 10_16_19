@@ -1,0 +1,9 @@
+Today covered MinIO Quick Start with Docker and first web crawler code review for Sticky Picky
+https://docs.min.io/docs/minio-quickstart-guide.html
+
+Topics 
+1) OS Module- to interact with your operating system from 
+https://pythonprogramming.net/python-3-os-module/
+2) tld- Extract the top level domain (TLD) from the URL given
+https://pypi.org/project/tld/
+3) https://pypi.org/ - Find, install and publish Python packages with the Python Package Index
